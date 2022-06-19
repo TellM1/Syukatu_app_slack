@@ -1,0 +1,2 @@
+# Syukatu_app_slack
+就活用slackbotによる勤怠管理システム
