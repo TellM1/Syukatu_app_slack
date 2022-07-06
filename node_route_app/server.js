@@ -14,7 +14,7 @@ app.get("/", (req, res) => {
     res.send("test")
 });
 
-app.get("/user", userRouter);
+app.use("/user", userRouter);
 
 // POST method route
 app.post('/', (req, res) => {
